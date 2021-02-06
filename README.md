@@ -7,7 +7,7 @@ Java捣乱脚本(`谨慎使用`)
 ### 使用方法
 
 + **Step 1** [下载](https://github.com/MrYaoxx/Trick-or-Trick/tags)
-+ **Step 2** 点击 *Trick-or-Trick-32bit.exe* 或 *Trick-or-Trick-64bit.exe*,如果托盘中出现一个倒立的*Java*图标,表示运行成功
++ **Step 2** 点击 *Trick-or-Trick.exe*,如果托盘中出现一个倒立的*Java*图标,表示运行成功
 
 ### 编辑 _config.json_
 |名称|含义|默认值|
