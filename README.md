@@ -6,7 +6,7 @@ Java捣乱脚本(`谨慎使用`)
 
 ### 使用方法
 
-+ **Step 1** [下载](https://github.com/MrYaoxx/Trick-or-Trick/releases)
++ **Step 1** [下载](./releases)
 + **Step 2** 点击 *Trick-or-Trick.exe*,如果托盘中出现一个倒立的*Java*图标,表示运行成功
 
 ### 编辑 _config.json_
@@ -18,5 +18,10 @@ Java捣乱脚本(`谨慎使用`)
 |maxDelay|最大捣乱间隔时间|600|
 |mouseMoveCount|每次捣乱时鼠标移动次数|100|
 
+### Maven
 
-# 谨慎使用
++ Commons IO - [HomePage](https://commons.apache.org/proper/commons-io/)
++ Json In Java - [HomePage](https://github.com/stleary/JSON-java)
+
+
+# **谨慎使用**
